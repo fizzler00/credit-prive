@@ -24,6 +24,7 @@ aliases: ["debt advisor", "conseil en financement"]
 
 - Le retainer est en général non remboursable et vient en déduction de la commission de succès au moment de la signature (Capstone Partners).
 - Chez Swiss Private Finance, les honoraires vont de **1 % à 3 %** du montant du prêt selon la taille et la complexité, avec un minimum de **30 000 CHF**, dont 25 % rétrocédés aux apporteurs d'affaires (site de la maison).
+- Ces honoraires se paient en trois temps : des frais de recherche (**search fee**) d'au moins **1 000 CHF** à la signature du mandat, des frais de dossier (**processing fee**) d'au moins **4 000 CHF** à la signature du [[Le métier de debt advisor/Le term sheet|term sheet]], puis le solde, la commission de succès, à la signature du [[Sûretés & structuration/Le contrat de crédit|contrat de prêt]] (grille d'honoraires de la maison, novembre 2025).
 
 ## En pratique chez un debt advisor
 
@@ -59,6 +60,7 @@ La difficulté du métier, souvent, n'est pas de trouver un prêteur : presque 
 - [How does an investment bank get paid?, Capstone Partners](<https://www.capstonepartners.com/insights/article-how-does-an-investment-bank-get-paid/>), consulté le 2026-11-20
 - [Success fee, Corporate Finance Institute](<https://corporatefinanceinstitute.com/resources/valuation/success-fee>), consulté le 2026-11-20
 - [Swiss Private Finance, site de la maison](<https://swissprivate.finance>), consulté le 2026-11-20
+- [Grille d'honoraires, Swiss Private Finance](<https://swissprivate.finance/wp-content/uploads/2025/11/New-pricing-grid.png>), consulté le 2026-11-23
 
 ## Autotest
 
