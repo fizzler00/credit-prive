@@ -1,3 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Le titre du site est long : sur téléphone, il ne doit pas pousser les boutons hors de l'écran.
+@media all and (max-width: 800px) {
+  .page-title {
+    font-size: 1.3rem;
+  }
+}
