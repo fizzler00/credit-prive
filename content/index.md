@@ -1,7 +1,7 @@
 ---
 title: "Crédit privé & financement d'actifs"
 ---
-Le passif du patrimoine : refinancer un bien, financer un actif (yacht, jet, œuvre d'art, or, pierres précieuses) et trouver le prêteur qui dira oui, souvent un fonds de dette du **crédit privé** (**private credit**). Point d'entrée unique du domaine ; l'actif du patrimoine est dans 🗺️ Gestion de Patrimoine MOC.
+Le passif du patrimoine : refinancer un bien, financer un actif (yacht, jet, œuvre d'art, or, pierres précieuses) et trouver le prêteur qui dira oui, souvent un fonds de dette du **crédit privé** (**private credit**). Point d'entrée unique du domaine.
 
 ## Les hubs
 
