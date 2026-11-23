@@ -31,6 +31,8 @@ Un exemple publié : une même banque peut prêter jusqu'à 80 % de la valeur
 
 **Exemple** : un portefeuille de 2 millions, composé de 1 million d'obligations de bonne qualité à 80 % et de 1 million d'actions à 60 %, donne une **limite de crédit de 1,4 million** (800 000 + 600 000).
 
+Hors des critères des banques, des prêteurs alternatifs avancent davantage : 50 à 60 % de la valeur d'une action unique peu liquide, et 50 à 80 % contre des cryptoactifs (ordre de grandeur).
+
 ## En pratique chez un debt advisor
 
 - **Trouver de la liquidité sans vendre** : le client évite de sortir du marché, de payer des frais ou de cristalliser une moins-value.
@@ -39,6 +41,8 @@ Un exemple publié : une même banque peut prêter jusqu'à 80 % de la valeur
 - **Financer un actif que les banques prennent mal en garantie directe** (un yacht, de l'art, une participation) : le portefeuille sert de sûreté à la place de l'actif.
 - **Lombard ou hypothèque ?** L'hypothèque est stable mais suit des règles strictes (tenue des charges, amortissement). Le Lombard est rapide et souple, mais il dépend des marchés. Souvent, la bonne réponse combine les deux : une hypothèque de 1er rang, et un portefeuille nanti à la place des fonds propres durs ou de l'amortissement.
 - Le Lombard est le crédit naturel d'une banque privée : il repose sur les actifs qu'elle garde en dépôt. Un client qui n'a pas de portefeuille dans la banque n'y a pas accès, et cherche alors d'autres prêteurs.
+- **Combiner Lombard et hypothèque pour financer tout le prix** : pour une résidence secondaire de 10 millions, par exemple, 5 millions d'hypothèque et 5 millions de Lombard sur le portefeuille déposé dans la banque.
+- **Une action unique hors des critères de la banque** (capitalisation ou liquidité quotidienne trop faibles) : se tourner vers des prêteurs alternatifs, présents sur presque toutes les places boursières. Exemple : une action cotée en Lituanie, financée par un prêteur privé de Singapour.
 
 ## Pièges
 

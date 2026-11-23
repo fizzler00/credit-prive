@@ -27,6 +27,9 @@ D'où ses exigences : des **actifs sous gestion** (**assets under management**,
 - Demander tout de suite où sont les actifs liquides du client, et s'il accepte d'en déplacer une partie vers la banque prêteuse : c'est une monnaie d'échange pour obtenir un meilleur taux ou une avance plus haute.
 - S'il ne peut pas ou ne veut pas, aller vers des prêteurs qui n'exigent pas d'actifs sous gestion : [[Prêteurs & marché/Fonds de dette|Fonds de dette]] et [[Prêteurs & marché/Prêteurs spécialisés par actif|Prêteurs spécialisés par actif]], plus chers.
 - Anticiper les échéances : un refinancement refusé se découvre trop tard s'il est préparé dans les derniers mois (ordre de grandeur : commencer un an avant).
+- Le dépôt d'actifs sous gestion rend la relation rentable pour la banque, et il peut servir le client : contre ce dépôt, une banque privée genevoise peut financer tout le prix d'une résidence secondaire à l'étranger, moitié en hypothèque, moitié contre le portefeuille.
+- Connaître les limites de la banque : sur une action unique, elle exige une capitalisation et une liquidité quotidienne minimales, et ne prête pas en dessous ; c'est parfois elle qui oriente alors le client vers un conseiller en dette.
+- Pour des cryptoactifs, ne pas solliciter une banque privée : elles n'y touchent pas, le produit étant jugé trop spéculatif. Ce sont des prêteurs alternatifs qui prêtent contre (voir [[Prêteurs & marché/Prêteurs spécialisés par actif|Prêteurs spécialisés par actif]]).
 
 ## Pièges
 

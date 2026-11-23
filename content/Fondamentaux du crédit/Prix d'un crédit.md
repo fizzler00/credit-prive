@@ -25,12 +25,15 @@ aliases: ["marge", "taux de référence", "SARON", "SOFR", "€STR", "EURIBOR", 
 - La BNS a maintenu son taux directeur à **0 %** le 24 septembre 2026 ; le SARON évolue près de ce niveau.
 - Dans un contrat de crédit maritime déposé à la SEC (Rubico), les frais d'arrangement sont de **1,00 %** des engagements et un remboursement anticipé total coûte **2,00 %** ; dans une facilité de Partners Group, le remboursement anticipé coûte **1,25 %** pendant les 24 premiers mois.
 - Exemple de coût complet en euros : €STR 2,441 % plus une marge supposée de 3,50 %, soit 5,941 % ; avec 1 % de frais d'arrangement étalés sur 5 ans, le coût annuel passe à environ 6,141 %.
+- Le taux suit la LTV : contre des cryptoactifs, environ 5 à 6 % par an à 50 % de LTV, et 10 à 12 % vers 80 % (ordre de grandeur).
+- Un actif exotique se paie 1,5 à 2 % par mois, même pour un prêt de six mois (ordre de grandeur).
 
 ## En pratique chez un debt advisor
 
 - Comparer les offres sur le **coût complet** (taux, marge, tous les frais rapportés à la durée), pas sur la marge seule.
 - Négocier là où le prêteur a de la marge de manœuvre : les frais d'arrangement, la commission d'engagement, les frais de sortie, la durée de la période où le remboursement anticipé est pénalisé.
 - Aligner la devise du prêt sur celle des revenus ou de l'actif, pour éviter un risque de change.
+- Annoncer dès le premier échange la LTV et le taux à attendre : beaucoup de clients refusent de payer 1,5 à 2 % par mois, même pour un prêt court, alors que c'est parfois la seule façon de financer un actif exotique.
 
 ## Pièges
 

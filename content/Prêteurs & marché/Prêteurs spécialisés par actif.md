@@ -26,12 +26,17 @@ Les classes d'actifs elles-mêmes sont détaillées dans leurs hubs : les yacht
 - Superyachts : les prêteurs financent en général 50 % au plus de la valeur, davantage si le client a des actifs liquides et diversifiés ; les grands yachts peuvent être financés sur 20 ans ou plus, les petits sur 5 à 7 ans (Enness).
 - Art : le marché du prêt garanti par des œuvres représentait de 33,9 à 40 milliards de dollars en 2025. Aucune des 65 banques privées interrogées n'a connu de défaut en 2024, alors que la moitié des prêteurs non bancaires en ont eu, contre 17 % deux ans plus tôt (Deloitte et ArtTactic).
 - Métaux précieux : dans un Lombard, une banque peut prêter 60 % de leur valeur, comme pour les actions (Moneyland).
+- Actions peu liquides : là où les banques refusent, des prêteurs alternatifs prêtent 50 à 60 % de la valeur, sur presque toutes les places boursières (ordre de grandeur).
+- Cryptoactifs : des prêteurs alternatifs prêtent contre une douzaine de cryptomonnaies (bitcoin, ether, litecoin), à 50 à 80 % de la valeur ; contre des NFT, le taux dépasse 10 % par an à cause de la volatilité (ordre de grandeur).
 
 ## En pratique chez un debt advisor
 
 - Tenir une carte des prêteurs par classe d'actifs, avec leur appétit, leurs juridictions et leurs exigences (pavillon, immatriculation, garde).
 - Préparer le dossier dans le langage du prêteur spécialisé : rapport d'expert, contrats d'assurance, gestion de l'actif, historique d'entretien.
 - Comparer une banque privée (moins chère, mais qui veut la relation) et un prêteur non bancaire (plus cher, mais qui prête sur l'actif seul).
+- Presque tout actif trouve un prêteur, même exotique, comme un métal rare ou une collection de pièces : la vraie question est le prix, car le prêteur prend un risque et attend un rendement, pour lui ou pour ses investisseurs.
+- Garder dans sa carte des prêteurs ceux qui aiment les actions peu liquides : un prêteur privé de Singapour a ainsi financé une action cotée en Lituanie.
+- Pour un petit prêt contre cryptoactifs, le client trouve seul ; pour un gros montant ou un montage, il faut aller vers des prêteurs peu connus ou des [[Prêteurs & marché/Fonds de dette|Fonds de dette]].
 
 ## Pièges
 

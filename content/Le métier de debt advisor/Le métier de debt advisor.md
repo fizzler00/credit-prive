@@ -36,6 +36,12 @@ Le quotidien d'un junior, concrètement :
 - rédiger le premier jet du dossier de crédit et du credit memo ;
 - tenir la data room et le suivi des questions des prêteurs.
 
+La difficulté du métier, souvent, n'est pas de trouver un prêteur : presque tout actif trouve preneur. C'est de faire accepter son prix au client, jusqu'à 1,5 à 2 % par mois pour un actif exotique (ordre de grandeur). D'où quelques réflexes :
+
+- annoncer dès le premier échange la LTV et le taux à attendre ;
+- savoir que des dossiers arrivent aussi par les banques privées, quand leurs critères ferment la porte au client, par exemple sur une action unique peu liquide ;
+- réserver le conseil aux gros montants et aux montages : un petit prêt contre cryptoactifs se trouve sans conseiller.
+
 ## Pièges
 
 - Se mettre du côté du prêteur par réflexe : le client paie, c'est son intérêt qu'on défend.

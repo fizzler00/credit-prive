@@ -34,6 +34,8 @@ Ces chiffres viennent de courtiers qui vendent ces prêts : à lire comme des *
 - Pour un refinancement, chiffrer la mainlevée de l'ancienne hypothèque et la nouvelle inscription chez le notaire.
 - Vérifier la structure : détention directe, SCI, société étrangère ; un associé non résident ou une société étrangère change le dossier fiscal et le KYC.
 - Pour un ancien in fine, vérifier la valeur du contrat nanti à l'échéance : c'est elle qui devait rembourser.
+- Pour un client non résident, par exemple installé à Dubaï, qui achète une résidence secondaire sur la Côte d'Azur, penser d'abord aux banques privées genevoises : elles financent volontiers ces biens, contre un dépôt d'actifs sous gestion.
+- Combiner les garanties pour financer tout le prix : pour un bien de 10 millions, par exemple, 5 millions d'hypothèque sur le bien et 5 millions de [[Prêteurs & marché/Crédit Lombard|Crédit Lombard]] contre le portefeuille déposé. Des garanties de natures et de pays différents donnent souvent les meilleures conditions.
 
 ## Pièges
 
