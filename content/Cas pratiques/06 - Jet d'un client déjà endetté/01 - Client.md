@@ -6,7 +6,7 @@ title: "01 - Client"
 
 # Client (cas 6)
 
-Dossier : [[Cas pratiques/06 - Jet d'un client déjà endetté/00 - Mandat|Mandat]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/01 - Client|Client]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/02 - Actif|Actif]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/03 - Dette existante|Dette existante]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/04 - Prêteurs pressentis|Prêteurs pressentis]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/05 - Credit memo|Credit memo]] · Correction
+Dossier : [[Cas pratiques/06 - Jet d'un client déjà endetté/00 - Mandat|Mandat]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/01 - Client|Client]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/02 - Actif|Actif]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/03 - Dette existante|Dette existante]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/04 - Prêteurs pressentis|Prêteurs pressentis]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/05 - Credit memo|Credit memo]] · Correction
 
 ## Le client
 
@@ -20,14 +20,14 @@ Dossier : [[Cas pratiques/06 - Jet d'un client déjà endetté/00 - Mandat|Manda
 
 | Poste | USD par an |
 |---|---|
-| Dividendes de sa société, stables sur trois ans | 6 500 000 |
-| Charges personnelles | 1 000 000 |
+| Dividendes de sa société, stables sur trois ans | 6 500 000 |
+| Charges personnelles | 1 000 000 |
 
 ## Le patrimoine
 
 | Poste | Valeur | Remarque |
 |---|---|---|
-| Portefeuille chez la Banque privée X | 28 000 000 USD | nanti pour un crédit Lombard (pièce 03) |
+| Portefeuille chez la Banque privée X | 28 000 000 USD | nanti pour un crédit Lombard (pièce 03) |
 | Villa | non communiquée | hypothéquée (pièce 03) |
 | Jet, détenu par une SPV | voir la pièce 02 | sans dette |
 | Sa société | non cotée | il en reçoit les dividendes |

@@ -6,7 +6,7 @@ title: "00 - Mandat"
 
 # Mandat (cas 6)
 
-Dossier : [[Cas pratiques/06 - Jet d'un client déjà endetté/00 - Mandat|Mandat]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/01 - Client|Client]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/02 - Actif|Actif]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/03 - Dette existante|Dette existante]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/04 - Prêteurs pressentis|Prêteurs pressentis]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/05 - Credit memo|Credit memo]] · Correction
+Dossier : [[Cas pratiques/06 - Jet d'un client déjà endetté/00 - Mandat|Mandat]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/01 - Client|Client]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/02 - Actif|Actif]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/03 - Dette existante|Dette existante]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/04 - Prêteurs pressentis|Prêteurs pressentis]] · [[Cas pratiques/06 - Jet d'un client déjà endetté/05 - Credit memo|Credit memo]] · Correction
 
 ## Le contexte
 
@@ -14,7 +14,7 @@ Tu es analyste junior chez un debt advisor genevois (fictif). Un associé te tra
 
 ## La demande du client
 
-M. K. a déjà levé de la dette sur ses actifs liquides : son portefeuille et sa villa. Il veut maintenant libérer de la liquidité sur son jet, qu'il garde : **9 000 000 USD nets, pour 5 ans**, pour investir dans sa société.
+M. K. a déjà levé de la dette sur ses actifs liquides : son portefeuille et sa villa. Il veut maintenant libérer de la liquidité sur son jet, qu'il garde : **9 000 000 USD nets, pour 5 ans**, pour investir dans sa société.
 
 ## Ce qu'on attend de toi
 

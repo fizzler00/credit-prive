@@ -1,7 +1,7 @@
 ---
 title: "Glossaire FR-EN"
 ---
-Les termes du domaine, du français vers l'anglais, avec la note qui les explique. Trié sur le français ; complété au fil des lots.
+Les termes du domaine, du français vers l'anglais, avec la note qui les explique. Trié sur le français ; complété au fil des lots.
 
 | Français | Anglais | Note |
 |---|---|---|
@@ -153,7 +153,7 @@ Les termes du domaine, du français vers l'anglais, avec la note qui les expliqu
 | Réalisation des sûretés | Enforcement | [[Sûretés & structuration/Réalisation des sûretés\|Réalisation des sûretés]] |
 | Recours limité | Limited recourse | [[Fondamentaux du crédit/Recours et non-recours\|Recours et non-recours]] |
 | Refinancement | Refinancing | [[Immobilier d'exception/Refinancement à l'échéance\|Refinancement à l'échéance]] |
-| Registre d'immatriculation d'un aéronef | Aircraft registry ; N-register (registre américain) | [[Juridictions & régimes/Registres d'aéronefs\|Registres d'aéronefs]] |
+| Registre d'immatriculation d'un aéronef | Aircraft registry ; N-register (registre américain) | [[Juridictions & régimes/Registres d'aéronefs\|Registres d'aéronefs]] |
 | Registre d'œuvres volées | Art Loss Register | [[Art & collections/Provenance et titre\|Provenance et titre]] |
 | Registre de catégorie 1 ou 2 | Red Ensign Group (REG) Category 1, Category 2 | [[Juridictions & régimes/Red Ensign Group\|Red Ensign Group]] |
 | Registre foncier anglais | HM Land Registry | [[Immobilier d'exception/Financer un bien au Royaume-Uni\|Financer un bien au Royaume-Uni]] |

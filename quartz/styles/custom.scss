@@ -1,10 +1,229 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Style repris du thème Obsidian « Things » (Colin Eckert, v2.2.4) : police du système, fond blanc,
+// titres h1 et h2 dans la couleur du texte (h2 souligné), gras et citations colorés, liens soulignés.
+// Les couleurs rose et bleu clair du thème sont remplacées par la palette « Sapin et cuivre » (choisie le 2026-11-23).
 
-// Le titre du site est long : sur téléphone, il ne doit pas pousser les boutons hors de l'écran.
-@media all and (max-width: 800px) {
+// « :root:root » : les variables du thème Quartz sont émises après ce fichier, il faut les battre en spécificité.
+:root:root {
+  --titleFont: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Ubuntu, sans-serif;
+  --headerFont: var(--titleFont);
+  --bodyFont: var(--titleFont);
+  --codeFont: "JetBrains Mono", "Fira Code", Menlo, SFMono-Regular, Consolas, monospace;
+  --panneau: #f6f7f8;
+  --panneau-survol: #e2e5e9;
+  --gras: var(--tertiary);
+  --citation: #4f6b5f;
+  --highlight: color-mix(in srgb, var(--secondary) 7%, transparent);
+}
+
+:root[saved-theme="dark"] {
+  --panneau: #171a1f;
+  --panneau-survol: #2a2f37;
+}
+
+:root:root[saved-theme="dark"] {
+  --citation: #a9c4b8;
+}
+
+// ── Texte ──
+.page article {
+  font-size: 16px;
+
+  & p,
+  & li,
+  & td,
+  & th {
+    line-height: 1.5;
+  }
+
+  & li::marker {
+    color: var(--gray);
+  }
+
+  & p > strong,
+  & li > strong,
+  & td > strong,
+  & strong {
+    color: var(--gras);
+    font-weight: 600;
+  }
+
+  & em {
+    color: var(--gras);
+  }
+
+  & a strong,
+  & a em {
+    color: inherit;
+  }
+}
+
+// ── Titres ──
+h1.article-title,
+.page article > h1 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+.page article {
+  & h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+    border-bottom: 2px solid var(--lightgray);
+    padding-bottom: 2px;
+    margin-bottom: 0.5rem;
+  }
+
+  & h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--secondary);
+  }
+
+  & h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--gras);
+  }
+}
+
+// ── Liens : soulignés, sans pastille ──
+a {
+  font-weight: 500;
+}
+
+a.internal {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+}
+
+.page article a.internal,
+.page article a.external {
+  color: var(--secondary);
+  font-weight: 400;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 45%, transparent);
+
+  &:hover {
+    color: var(--tertiary);
+    text-decoration-color: currentColor;
+  }
+}
+
+// ── Chapeau et citations (hors encadrés) ──
+.page article blockquote:not(.callout) {
+  border-left: 3px solid color-mix(in srgb, var(--citation) 50%, transparent);
+  padding-left: 1rem;
+  font-style: italic;
+
+  & p {
+    color: var(--citation);
+  }
+}
+
+// ── Autotest : encadrés repliés dans la couleur des liens, au lieu de l'orange ──
+.callout[data-callout="question"] {
+  --color: var(--secondary);
+  --border: color-mix(in srgb, var(--secondary) 20%, transparent);
+  --bg: color-mix(in srgb, var(--secondary) 4%, transparent);
+  border-radius: 6px;
+}
+
+// ── Tableaux ──
+.page article table {
+  margin: 1rem 0;
+  border-collapse: collapse;
+
+  & th,
+  & td {
+    border: 1px solid var(--lightgray);
+    padding: 0.35rem 0.6rem;
+  }
+
+  & th {
+    font-weight: 600;
+  }
+
+  & tr {
+    border-bottom: none;
+  }
+}
+
+// ── Organisation d'Obsidian : arborescence sur un panneau gris clair ──
+@media all and not ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    background-color: var(--panneau);
+    border-right: 1px solid var(--lightgray);
+  }
+}
+
+.page-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.25;
+
+  & a {
+    color: var(--dark);
+  }
+}
+
+.explorer {
+  & .folder-container div > a,
+  & .folder-container div > button span {
+    color: var(--dark);
+    font-weight: 500;
+    font-size: 0.92rem;
+  }
+
+  & .folder-icon {
+    color: var(--gray);
+  }
+
+  & ul li > a {
+    display: block;
+    color: var(--darkgray);
+    opacity: 0.8;
+    font-weight: 400;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    padding: 1px 4px;
+
+    &:hover {
+      background-color: var(--panneau-survol);
+      opacity: 1;
+    }
+
+    &.active {
+      opacity: 1;
+      color: var(--dark);
+      background-color: var(--panneau-survol);
+    }
+  }
+}
+
+// Titres des panneaux de droite (graphe, sommaire, liens retour) : petits et discrets
+.graph > h3,
+.toc .toc-header h3,
+button.toc-header h3,
+.backlinks > h3 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--gray);
+}
+
+// ── Le titre du site est long : sur téléphone, il ne doit pas pousser les boutons hors de l'écran ──
+@media all and ($mobile) {
   .page-title {
-    font-size: 1.3rem;
+    font-size: 1.15rem;
   }
 }

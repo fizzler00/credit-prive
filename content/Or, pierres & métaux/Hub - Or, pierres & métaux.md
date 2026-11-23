@@ -1,11 +1,11 @@
 ---
 title: "Hub - Or, pierres & métaux"
 ---
-Le financement adossé à l'or, aux métaux et aux pierres précieuses : conservation, valorisation, liquidité. Des actifs faciles à transporter et à vendre, mais dont la garde et l'authenticité doivent être prouvées au prêteur.
+Le financement adossé à l'or, aux métaux et aux pierres précieuses : conservation, valorisation, liquidité. Des actifs faciles à transporter et à vendre, mais dont la garde et l'authenticité doivent être prouvées au prêteur.
 
 ## Ordre de lecture
 
-1. [[Or, pierres & métaux/Financement adossé à l'or et aux pierres précieuses|Financement adossé à l'or et aux pierres précieuses]] : le chapitre, du client aux chiffres types
+1. [[Or, pierres & métaux/Financement adossé à l'or et aux pierres précieuses|Financement adossé à l'or et aux pierres précieuses]] : le chapitre, du client aux chiffres types
 2. [[Or, pierres & métaux/Les prêteurs de l'or et des pierres|Les prêteurs de l'or et des pierres]]
 3. [[Or, pierres & métaux/Prêt adossé à l'or|Prêt adossé à l'or]]
 4. [[Or, pierres & métaux/L'or physique et le Good Delivery|L'or physique et le Good Delivery]]
@@ -23,7 +23,7 @@ Le financement adossé à l'or, aux métaux et aux pierres précieuses : conserv
 
 ## À venir
 
-- Rien : le hub est complet au lot 6.
+- Rien : le hub est complet au lot 6.
 
 ## Notes du hub
 

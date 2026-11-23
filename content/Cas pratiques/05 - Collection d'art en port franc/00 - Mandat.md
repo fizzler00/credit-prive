@@ -6,15 +6,15 @@ title: "00 - Mandat"
 
 # Mandat (cas 5)
 
-Dossier : [[Cas pratiques/05 - Collection d'art en port franc/00 - Mandat|Mandat]] · [[Cas pratiques/05 - Collection d'art en port franc/01 - Client|Client]] · [[Cas pratiques/05 - Collection d'art en port franc/02 - Actif|Actif]] · [[Cas pratiques/05 - Collection d'art en port franc/03 - Dette existante|Dette existante]] · [[Cas pratiques/05 - Collection d'art en port franc/04 - Prêteurs pressentis|Prêteurs pressentis]] · [[Cas pratiques/05 - Collection d'art en port franc/05 - Credit memo|Credit memo]] · Correction
+Dossier : [[Cas pratiques/05 - Collection d'art en port franc/00 - Mandat|Mandat]] · [[Cas pratiques/05 - Collection d'art en port franc/01 - Client|Client]] · [[Cas pratiques/05 - Collection d'art en port franc/02 - Actif|Actif]] · [[Cas pratiques/05 - Collection d'art en port franc/03 - Dette existante|Dette existante]] · [[Cas pratiques/05 - Collection d'art en port franc/04 - Prêteurs pressentis|Prêteurs pressentis]] · [[Cas pratiques/05 - Collection d'art en port franc/05 - Credit memo|Credit memo]] · Correction
 
 ## Le contexte
 
-Tu es analyste junior chez un debt advisor genevois (fictif). Un associé te transmet le dossier tel que le client l'a présenté, avec une seule phrase : « Il a déjà tout nanti chez sa banque ; il veut emprunter sur ses tableaux. »
+Tu es analyste junior chez un debt advisor genevois (fictif). Un associé te transmet le dossier tel que le client l'a présenté, avec une seule phrase : « Il a déjà tout nanti chez sa banque ; il veut emprunter sur ses tableaux. »
 
 ## La demande du client
 
-M. R. a déjà levé de la dette sur ses actifs liquides. Il veut maintenant emprunter contre sa collection, gardée au port franc de Genève : **6 500 000 USD nets, pour 2 ans**, pour prendre une participation dans une société. Il ne veut vendre aucune œuvre.
+M. R. a déjà levé de la dette sur ses actifs liquides. Il veut maintenant emprunter contre sa collection, gardée au port franc de Genève : **6 500 000 USD nets, pour 2 ans**, pour prendre une participation dans une société. Il ne veut vendre aucune œuvre.
 
 ## Ce qu'on attend de toi
 
