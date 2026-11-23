@@ -226,4 +226,12 @@ button.toc-header h3,
   .page-title {
     font-size: 1.15rem;
   }
+
+  // Le menu de l'arborescence fait 100vw mais se place dans la colonne de gauche, décalée de la marge
+  // de 1rem de la page : on le recale au bord de l'écran et on rend la marge à l'intérieur.
+  .page .explorer .explorer-content {
+    left: -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
