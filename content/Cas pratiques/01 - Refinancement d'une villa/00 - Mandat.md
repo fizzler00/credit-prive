@@ -10,7 +10,7 @@ Dossier : [[Cas pratiques/01 - Refinancement d'une villa/00 - Mandat|Mandat]] �
 
 ## Le contexte
 
-Tu es analyste junior chez un debt advisor genevois (fictif). Un associé te confie ce dossier, le premier que tu traites seul.
+Tu es analyste junior chez un debt advisor genevois. Un associé te confie ce dossier, le premier que tu traites seul.
 
 ## La demande du client
 
