@@ -21,10 +21,6 @@ Le financement de yachts, et d'abord le **dry yacht finance** : un financement 
 
 La sûreté elle-même : [[Sûretés & structuration/Hypothèque maritime|Hypothèque maritime]], dans [[Sûretés & structuration/Hub - Sûretés & structuration|Hub - Sûretés & structuration]].
 
-## À venir
-
-Rien : le hub est complet au lot 2.
-
 ## Notes du hub
 
 - [[Yachts/Choisir un pavillon|Choisir un pavillon]]

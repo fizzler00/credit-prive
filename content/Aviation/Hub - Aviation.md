@@ -20,10 +20,6 @@ Le financement de jets d'affaires et d'hélicoptères : immatriculation, Conven
 
 Le registre et le traité dont tout dépend sont dans le hub Juridictions : [[Juridictions & régimes/Registres d'aéronefs|Registres d'aéronefs]] et [[Juridictions & régimes/Convention du Cap|Convention du Cap]].
 
-## À venir
-
-Rien : le hub est complet au lot 5.
-
 ## Notes du hub
 
 - [[Aviation/Coûts d'exploitation d'un jet|Coûts d'exploitation d'un jet]]

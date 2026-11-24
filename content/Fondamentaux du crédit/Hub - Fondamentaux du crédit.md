@@ -16,10 +16,6 @@ Les notions avec lesquelles un prêteur juge une opération : la part de la val
 9. [[Fondamentaux du crédit/Prêt adossé à un actif ou au cash-flow|Prêt adossé à un actif ou au cash-flow]] : les deux logiques de crédit et leur dosage
 10. [[Fondamentaux du crédit/Perte attendue (PD, LGD, EAD)|Perte attendue (PD, LGD, EAD)]] : ce que le prêteur s'attend à perdre
 
-## À venir
-
-Rien d'autre de prévu : le hub est couvert par le lot 1.
-
 ## Notes du hub
 
 - [[Fondamentaux du crédit/Bankability et les C du crédit|Bankability et les C du crédit]]

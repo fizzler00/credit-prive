@@ -16,10 +16,6 @@ Le prêt adossé à des œuvres d'art et à des collections (voitures, montres)�
 
 Le lieu où dorment beaucoup de collections est décrit dans [[Juridictions & régimes/Ports francs de Genève|Ports francs de Genève]].
 
-## À venir
-
-- Rien : le hub est complet au lot 4. Les bijoux et les pierres sont dans [[Or, pierres & métaux/Hub - Or, pierres & métaux|Hub - Or, pierres & métaux]].
-
 ## Notes du hub
 
 - [[Art & collections/Expertise d'une œuvre d'art|Expertise d'une œuvre d'art]]

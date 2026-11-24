@@ -16,10 +16,6 @@ Les droits et les registres dont dépend un financement : pavillons des yachts,
 
 Le choix entre eux est dans [[Yachts/Choisir un pavillon|Choisir un pavillon]] ; la sûreté inscrite, dans [[Sûretés & structuration/Hypothèque maritime|Hypothèque maritime]].
 
-## À venir
-
-Rien : le hub est complet au lot 5.
-
 ## Notes du hub
 
 - [[Juridictions & régimes/Convention du Cap|Convention du Cap]]

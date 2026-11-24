@@ -14,10 +14,6 @@ Le métier lui-même : le rôle du conseiller en financement, le cycle d'une op
 7. [[Le métier de debt advisor/KYC du prêteur et source of wealth|KYC du prêteur et source of wealth]] : ce que le prêteur vérifie sur le client
 8. [[Le métier de debt advisor/La due diligence|La due diligence]] : les vérifications qui confirment ou bloquent
 
-## À venir
-
-Rien d'autre de prévu : le hub est couvert par le lot 1.
-
 ## Notes du hub
 
 - [[Le métier de debt advisor/KYC du prêteur et source of wealth|KYC du prêteur et source of wealth]]

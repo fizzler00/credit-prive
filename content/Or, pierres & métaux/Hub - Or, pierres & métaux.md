@@ -21,10 +21,6 @@ Le financement adossé à l'or, aux métaux et aux pierres précieuses : conser
 14. [[Or, pierres & métaux/Garde et expertise des pierres en gage|Garde et expertise des pierres en gage]]
 15. [[Or, pierres & métaux/Origine, sanctions et conformité|Origine, sanctions et conformité]]
 
-## À venir
-
-- Rien : le hub est complet au lot 6.
-
 ## Notes du hub
 
 - [[Or, pierres & métaux/Argent, platine et palladium|Argent, platine et palladium]]

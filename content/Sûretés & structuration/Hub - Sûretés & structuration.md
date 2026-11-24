@@ -18,10 +18,6 @@ Ce qui protège le prêteur : les sûretés sur un bien ou sur une personne, le
 11. [[Sûretés & structuration/Le contrat de crédit|Le contrat de crédit]] : conditions préalables, déclarations, cas de défaut
 12. [[Sûretés & structuration/Réalisation des sûretés|Réalisation des sûretés]] : comment le prêteur récupère son argent
 
-## À venir
-
-Rien : le hub est complet au lot 3.
-
 ## Notes du hub
 
 - [[Sûretés & structuration/Cessions d'assurances et de revenus|Cessions d'assurances et de revenus]]

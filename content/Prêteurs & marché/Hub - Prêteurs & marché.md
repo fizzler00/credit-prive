@@ -13,10 +13,6 @@ Qui prête aux clients fortunés, et à quelles conditions : banques privées, 
 6. [[Prêteurs & marché/Family offices, l'actif sans le passif|Family offices, l'actif sans le passif]] : pourquoi la dette reste sans pilote
 7. [[Prêteurs & marché/Crédit Lombard|Crédit Lombard]] : le crédit garanti par un portefeuille nanti
 
-## À venir
-
-Rien d'autre de prévu : le hub est couvert par le lot 1.
-
 ## Notes du hub
 
 - [[Prêteurs & marché/Banques privées et actifs sous gestion|Banques privées et actifs sous gestion]]

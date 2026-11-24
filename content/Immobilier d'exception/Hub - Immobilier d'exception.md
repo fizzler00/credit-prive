@@ -18,10 +18,6 @@ Le financement et le refinancement des propriétés de prestige, en Suisse et à
 
 Ailleurs dans le domaine : [[Juridictions & régimes/Lex Koller|Lex Koller]] (Juridictions & régimes), [[Sûretés & structuration/Waterfall et accord entre créanciers|Waterfall et accord entre créanciers]] et [[Sûretés & structuration/Réserve d'intérêts|Réserve d'intérêts]] (Sûretés & structuration).
 
-## À venir
-
-Rien : le hub est complet au lot 3.
-
 ## Notes du hub
 
 - [[Immobilier d'exception/Dette mezzanine|Dette mezzanine]]
