@@ -95,6 +95,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       v,
     ]),
   )
+  // Crédit privé : le Glossaire FR-EN, lié à presque toutes les notes, sort du graphe, sauf sur sa propre page. Modification locale de Quartz : à reporter après une mise à jour.
+  const GLOSSAIRE = "Glossaire-FR-EN" as SimpleSlug
+  if (slug !== GLOSSAIRE) data.delete(GLOSSAIRE)
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
   const validLinks = new Set(data.keys())
